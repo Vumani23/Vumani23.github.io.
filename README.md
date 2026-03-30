@@ -25,3 +25,7 @@ CV and Digital interview
 | **Informal IT Support (Part-Time / Volunteer)**  <br> *Present*  <br> - Provided technical support for students and community members  <br> - Installed and configured operating systems and software  <br> - Assisted with basic networking and printer setup  <br> - Diagnosed and resolved common hardware and software issues | **Chazeka Maqhashalala**  <br> Tutor, Cape Peninsula University of Technology  <br> 📧 222103205@mycput.ac.za  <br> 📞 0822371158  <br><br> **Mkhonto Kamanga**  <br> Kennametal South Africa Pty Ltd  <br> 📞 081 093 3733 |
 
 ---
+##MockInterview
+
+https://github.com/user-attachments/assets/b68220a2-c2b4-4cb7-a6fb-a46752bbbac4
+
