@@ -28,5 +28,6 @@ CV and Digital interview
 **MockInterview**
 
  [Vumane_Kamanga_MockInterview.mp4](https://vumani23.github.io/Vumane_Kamanga_MockInterview.mp4)
+ <video src="./charlton-solomons-mock-interview.mp4" controls width="600"></video>
 
 
