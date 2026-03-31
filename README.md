@@ -27,5 +27,5 @@ CV and Digital interview
 ---
 **MockInterview**
 
-https://github.com/user-attachments/assets/b68220a2-c2b4-4cb7-a6fb-a46752bbbac4
+https://github.com/user-attachments/assets/Vumane_Kamanga_MockInterview.mp4
 
