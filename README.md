@@ -8,25 +8,21 @@ CV and Digital interview
 📧 222865369@mycput.ac.za  
 🔗 [LinkedIn](https://www.linkedin.com/in/vumane-kamanga-8834a5237) | 💻 [GitHub](https://github.com/Vumani23)
 
----
 
 | **👤 Profile** | **🛠 Technical Skills** |
 |--------------|----------------------|
 | Motivated Application Development student with hands-on experience building desktop and mobile applications. Skilled in transforming ideas into functional, user-focused solutions using modern programming practices. Strong problem-solving ability, attention to detail, and eagerness to grow in a professional software development environment. | **Languages:** Java, Kotlin, SQL  <br> **Web:** HTML, CSS, JavaScript (Basic) <br> **Concepts:** MVC Architecture, CRUD Operations <br> **Tools:** Git, Android Studio, NetBeans |
 
----
 
 | **💼 Projects** | **🎓 Education** |
 |---------------|----------------|
 | **Student Accommodation Management System (Java Swing)**  <br> *Second Year Project*  <br> - Designed and developed a desktop system to manage student accommodation records  <br> - Implemented full CRUD functionality with database integration  <br> - Built intuitive GUI using Java Swing  <br> - Applied MVC design pattern for maintainable code structure  <br><br> **Android Login & Registration App (Kotlin + ROOM)**  <br> - Developed a mobile application with secure user authentication  <br> - Implemented ROOM database for efficient local data storage  <br> - Designed multi-screen navigation using Android activities  <br> - Added input validation to ensure data integrity | **Diploma in ICT: Application Development**  <br> Cape Peninsula University of Technology  <br> *Present*  <br><br> **National Senior Certificate**  <br> Phumulani Secondary School  <br> *2019* |
 
----
 
 | **🧰 Work Experience** | **📞 References** |
 |----------------------|----------------|
 | **Informal IT Support (Part-Time / Volunteer)**  <br> *Present*  <br> - Provided technical support for students and community members  <br> - Installed and configured operating systems and software  <br> - Assisted with basic networking and printer setup  <br> - Diagnosed and resolved common hardware and software issues | **Chazeka Maqhashalala**  <br> Tutor, Cape Peninsula University of Technology  <br> 📧 222103205@mycput.ac.za  <br> 📞 0822371158  <br><br> **Mkhonto Kamanga**  <br> Kennametal South Africa Pty Ltd  <br> 📞 081 093 3733 |
 
----
 **MockInterview**
 
  [Vumane_Kamanga_MockInterview.mp4](https://vumani23.github.io/Vumane_Kamanga_MockInterview.mp4)
@@ -40,19 +36,9 @@ CV and Digital interview
 ## 👨‍💻 About Me
 I am a third-year ICT student at CPUT with a strong interest in software development and problem-solving. This portfolio showcases my work readiness, technical skills, and professional development.
 
----
 
 ## 📄 Curriculum Vitae (CV)
-[View My CV](#)  
-<!-- Replace # with your CV link or section -->
 
----
-
-## 🎥 Mock Interview Video
-<iframe width="560" height="315" src="YOUR_VIDEO_LINK_HERE" 
-title="Mock Interview Video" frameborder="0" allowfullscreen></iframe>
-
----
 
 ## 🧠 Reflections
 
@@ -70,7 +56,6 @@ I learned and applied Markdown syntax such as headings, lists, and formatting te
 **Result:**  
 I successfully created a clean and professional CV. This improved my ability to present information clearly and enhanced my technical documentation skills.
 
----
 
 ### 🔹 Reflection on Mock Interview (STAR Method)
 
@@ -86,9 +71,8 @@ I practiced common interview questions, focused on clear communication, and revi
 **Result:**  
 This experience improved my confidence and communication skills, and helped me understand how to present myself professionally.
 
----
 
-### 🔹 Reflection on GitHub Pages (STAR Method)
+###  Reflection on GitHub Pages
 
 **Situation:**  
 I needed to publish my portfolio using GitHub Pages.
@@ -101,14 +85,3 @@ I configured GitHub Pages, uploaded my files, and tested the link to ensure ever
 
 **Result:**  
 I successfully published my portfolio, gaining practical experience in web deployment and troubleshooting.
-
----
-
-## 🌐 Live Portfolio
-👉 https://vumani23.github.io/
-
----
-
-## 📬 Contact
-- Email: your-email@example.com  
-- GitHub: https://github.com/vumani23
