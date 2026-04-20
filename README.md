@@ -4,7 +4,7 @@
 CV and Digital interview
 # Vumane Kamanga
 
-📍 Cape Town, South Africa | 📞 0655464135  
+📍 Cape Town, South Africa | 📞 0655464135
 📧 222865369@mycput.ac.za  
 🔗 [LinkedIn](https://www.linkedin.com/in/vumane-kamanga-8834a5237) | 💻 [GitHub](https://github.com/Vumani23)
 
