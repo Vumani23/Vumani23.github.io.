@@ -32,3 +32,83 @@ CV and Digital interview
  [Vumane_Kamanga_MockInterview.mp4](https://vumani23.github.io/Vumane_Kamanga_MockInterview.mp4)
  <video src="./charlton-solomons-mock-interview.mp4" controls width="600"></video>
 
+
+ **Reflection**
+ 
+# 💼 Digital Portfolio – Vumani Kamanga
+
+## 👨‍💻 About Me
+I am a third-year ICT student at CPUT with a strong interest in software development and problem-solving. This portfolio showcases my work readiness, technical skills, and professional development.
+
+---
+
+## 📄 Curriculum Vitae (CV)
+[View My CV](#)  
+<!-- Replace # with your CV link or section -->
+
+---
+
+## 🎥 Mock Interview Video
+<iframe width="560" height="315" src="YOUR_VIDEO_LINK_HERE" 
+title="Mock Interview Video" frameborder="0" allowfullscreen></iframe>
+
+---
+
+## 🧠 Reflections
+
+### 🔹 Reflection on Coding in Markdown (STAR Method)
+
+**Situation:**  
+During the development of my digital portfolio, I was required to use Markdown to structure and present my CV.
+
+**Task:**  
+My task was to create a well-organized and professional CV using Markdown.
+
+**Action:**  
+I learned and applied Markdown syntax such as headings, lists, and formatting techniques. I structured my CV into clear sections and ensured consistency throughout.
+
+**Result:**  
+I successfully created a clean and professional CV. This improved my ability to present information clearly and enhanced my technical documentation skills.
+
+---
+
+### 🔹 Reflection on Mock Interview (STAR Method)
+
+**Situation:**  
+I was required to record a mock interview as part of my portfolio.
+
+**Task:**  
+My goal was to present myself confidently and answer interview questions effectively.
+
+**Action:**  
+I practiced common interview questions, focused on clear communication, and reviewed my recording to improve my performance.
+
+**Result:**  
+This experience improved my confidence and communication skills, and helped me understand how to present myself professionally.
+
+---
+
+### 🔹 Reflection on GitHub Pages (STAR Method)
+
+**Situation:**  
+I needed to publish my portfolio using GitHub Pages.
+
+**Task:**  
+My task was to deploy my portfolio and ensure it is accessible online.
+
+**Action:**  
+I configured GitHub Pages, uploaded my files, and tested the link to ensure everything worked correctly.
+
+**Result:**  
+I successfully published my portfolio, gaining practical experience in web deployment and troubleshooting.
+
+---
+
+## 🌐 Live Portfolio
+👉 https://vumani23.github.io/
+
+---
+
+## 📬 Contact
+- Email: your-email@example.com  
+- GitHub: https://github.com/vumani23
